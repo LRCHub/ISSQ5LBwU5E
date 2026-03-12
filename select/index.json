@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Love seeker",
+  "base_artist": "JO1",
+  "createdAt": "2026-03-12T07:48:46.211317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love seeker",
+      "artist": "JO1",
+      "has_synced": true,
+      "path": "select/01_Love_seeker_JO1.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love seeker",
+      "artist": "JO1",
+      "has_synced": true,
+      "path": "select/02_Love_seeker_JO1.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Seeker • Can’t Stop It",
+      "artist": "VisioN",
+      "has_synced": false,
+      "path": "select/03_Love_Seeker_•_Can’t_Stop_It_VisioN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Seeker - Can't Stop It",
+      "artist": "VisioN",
+      "has_synced": false,
+      "path": "select/04_Love_Seeker_-_Can't_Stop_It_VisioN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Seeker - Can't Stop It (V",
+      "artist": "V.A.",
+      "has_synced": false,
+      "path": "select/05_Love_Seeker_-_Can't_Stop_It_(V_V.A..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love seeker",
+      "artist": "JO1",
+      "has_synced": false,
+      "path": "select/pl_01_Love_seeker_JO1.txt"
+    }
+  ]
+}
